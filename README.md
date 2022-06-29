@@ -1,12 +1,10 @@
 # Spring-Boot-CRUD-API
 
 # Tools
--Spring Boot
--PostgreSQL
--Insomnia
--Web Browser (Firefox)
-
-# Starting the application
+  - Spring Boot
+  - PostgreSQL
+  - Insomnia
+  - Web Browser (Firefox)
 
 # GET
 -List users
